@@ -1,4 +1,4 @@
----
+٩---
 title: Getting started
 titleTemplate: Guides
 description: Essential information to help you get set up with Mihon.
@@ -17,7 +17,7 @@ Essential information to help you get set up with Mihon.
 ### Downloading Mihon
 
 1. Visit our [download](/download/) page to get the latest version of **Mihon**.
-2. After the download is complete, open the `.apk` file.
+2. After the download is complete, open the `
 3. Proceed with the installation process.
 
 ### Adding sources
